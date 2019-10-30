@@ -66,7 +66,7 @@ void set_default_settings(void)
   setting_uart_speed = 9600;
 
   //Reset to pounds as our unit of measure
-  setting_units = UNITS_LBS;
+  setting_units = UNITS_KG;
 
   //Reset report rate to 2Hz
   setting_report_rate = 500;
